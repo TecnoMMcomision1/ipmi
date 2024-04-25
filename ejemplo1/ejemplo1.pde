@@ -1,4 +1,4 @@
-
+//Ejemplo con figuras simples
 void setup() { // el setup prepara el programa 
   size(400, 400); 
 }
