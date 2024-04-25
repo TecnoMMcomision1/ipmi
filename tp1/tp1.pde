@@ -1,6 +1,6 @@
 
-// Apellido, Nombre
-// Comisión 
+// Bugiolachi, José Luis
+// Comisión 1
 PImage arbol;
 void setup() {
   size(800, 400);
