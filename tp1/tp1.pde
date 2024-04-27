@@ -10,5 +10,5 @@ void setup() {
 void draw() {
   image(arbol, 0, 0, 400, 400 );
   fill(0, 0, 200);
-  rect(400, 320, 400, 180);
+  rect(400, 320, 400, 80);
 }
