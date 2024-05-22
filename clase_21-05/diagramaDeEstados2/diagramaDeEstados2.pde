@@ -12,7 +12,8 @@ void draw() {
   fill(100);
   text(segundos, 400, 50);
   if (pantalla==1) {
-    pantallaUno();
+  fill(0, 0, 255);
+  text("Titulo de la película", 100, 200);
   } else if (pantalla==2) {
     fill(0, 255, 255);
     text("Director", 100, 200);
@@ -45,8 +46,4 @@ void keyPressed() {
   if (keyCode==ENTER) {
     activo = true;
   }
-}
-void pantallaUno() {
-  fill(0, 0, 255);
-  text("Titulo de la película", 100, 200);
 }
