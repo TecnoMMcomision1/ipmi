@@ -124,7 +124,6 @@ void draw() {
   fill(#D86C18);
   circle(544, 399, 50);
 
-  //lineas
   fill(#FFD93E);
   quad(494, 83, 582, 60, 572, 99, 505, 113);
 }
